@@ -1,0 +1,93 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Dimri</title>
+    <style>
+        body {
+            margin: 0px;
+            padding: 25px;
+        }
+        header {
+            background-color: rgb(118, 137, 143);
+            color: rgb(18, 16, 16);
+            height: 100px;
+            font-size: 36pt;
+            text-align: center;
+        }
+        .welcome {
+            background-color: gray;
+            color: white;
+            font-size: 16pt;
+            text-align: center;
+            height: 40px;
+            margin: 0px;
+        }
+        .main-text {
+            width: 60%;
+            float: left;
+            background-color: beige;
+            margin: 5px;
+            border: 4px solid lightblue;
+            padding: 10px;
+        }
+        .divs {
+            margin: 5px;
+            width: 25%;
+            float: left;
+            border: 4px solid lightblue;
+            padding: 10px;
+        }
+    </style>
+</head>
+<body>
+
+<div class="header pad">
+
+</div>
+<div>
+    <p class="welcome">DIMRI</p>
+</div>
+
+<div class="main-text pad">
+    <p>Një ditë, dimri,</p>
+    <p> erdhi në dritare,</p>
+    <p>erdhi e trokiti,</p>
+    <p> por i shkreti s'diti,</p>
+    <p>të hynte dhe të ngrohej,</p>
+    <p>edhe pse po ftohej.</p>
+    <p>I shkreti, thërriti,</p>
+    <p>por askush s'iu përgjigj,</p>
+    <p>trokiti e trokiti,</p>
+    <p>dhe të gjithë thanë</p>
+    <p>Kaq e pati, i shkreti,</p>
+    <p>vdiq.</p>
+    <p>Po dimri s'u dorëzua,</p>
+    <p>i fortë si pushka,</p>
+    <p>Solli xhindrin, ai është i fortë,</p>
+    <p>më i fortë se shtëpia</p>
+    <p>E shtynte, e shtynte,</p>
+    <p>kanatët u hapën për të,</p>
+    <p>dhe të gjithë thanë</p>
+    <p>c'janë gjithë këto re.</p>
+    <p>E që atëherë, dimrin,</p>
+    <p>e respektuan</p>
+    <p>Dhe të gjithë,</p>
+    <p>si mbret e trajtuan.</p>
+    <p>E tani,</p>
+    <p>Kësaj përralle i vjen fundi,</p>
+    <p>Dhe shpresoj të dini se,</p>
+    <p>Po s'e respektuat dimrin,</p>
+    <p>Do të humbni.</p>
+    <p>Respektojeni dimrin,</p>
+    <p>Dhe çdo stinë,</p>
+    <p>se ato të mbajnë gjallë.</p>
+    <p>Pranvera si lule,</p>
+    <p>Vera si rërë e nxehtë,</p>
+    <p>Vjeshta si ylber,</p>
+    <p>E Dimri si bukuri e akullt.</p>
+    <p>PUNUAN: DEA SINANAJ & AMANTIA SINANAJ</p>
+</div>
+
+</body>
+</html>
+
